@@ -1,6 +1,5 @@
 let customerName = prompt("Enter Customer Name:");
 
-
 const food = {
     name: "Pizza",
     price: 199
